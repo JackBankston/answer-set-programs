@@ -69,7 +69,7 @@ goal :- nholds(onFirstSide(wolf), 7), nholds(onFirstSide(goat), 7), nholds(onFir
 % CLINGO OUTPUT:
 % C:\Users\Jack Bankston\Desktop\clingo-4.4.0-win64>clingo examples\asp\hw5.lp 0
 % clingo version 4.4.0
-% Reading from examples\asp\hw5.lp
+% Reading from examples\asp\wolfGoatCabbage.lp
 % Solving...
 % Answer: 1
 % occurs(travelAcross(sailor,goat),0) occurs(travelAcross(sailor,sailor),1) occurs
